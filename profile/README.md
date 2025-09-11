@@ -20,7 +20,7 @@
 
 - To survive the course and thats about it(optional)
 
-## What 🤔 jobs you can get on the course BSDSA?
+## 🤔 What jobs you can get on the course BSDSA?
 
 - Data analyst
 - Programmer.
