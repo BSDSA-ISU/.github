@@ -26,6 +26,8 @@ We are the students of BSDSA ISU located in San Fabian, Echague Isabela.
 - Mcdonald cashier.
 - Tricycle driver.
 - Van/Bus driver.
-- Human Traffiker(cars not human and definitely recommended)
+- Human Trafficker(cars not human and definitely recommended)
 - Janitor
 - Casino Dealer.
+
+@copyleft @AlieeLinux
