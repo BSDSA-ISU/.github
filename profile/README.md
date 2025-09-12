@@ -20,17 +20,6 @@
 
 - To survive the course and thats about it(optional)
 
-## 🤔 What jobs you can get on the course BSDSA?
-
-- Data analyst
-- Programmer.
-- Data Miner.
-- Data Engineer.
-- Ai Engineer.
-- Software engineer.
-- Meteorologist (using ML-based forecasting models).
-- Etc...
-
 ## 📚 What We Learn Here
 
 - Gives people an idea of what skills they’ll actually get from the course
@@ -43,6 +32,28 @@
 
 - Data visualization and storytelling
 
+## 🤔 What jobs you can get on the course BSDSA?
+
+- Data analyst.
+- Programmer.
+- Data Miner.
+- Data Engineer.
+- Ai Engineer.
+- Software engineer.
+- Meteorologist (using ML-based forecasting models).
+- Etc...
+
+## 🥯 Here are some repositories/projects made by us
+
+- [password manager using pandas](https://github.com/BSDSA-ISU/pandas-password-manager)
+- [programming for data science](https://github.com/BSDSA-ISU/Programminng-for-data-science)
+- [Linux configurer](https://github.com/BSDSA-ISU/linux-kernel-configurer)
+- [First year codes](https://github.com/BSDSA-ISU/first-year)
+
+## 🎊 for fun projects
+
+- [sway config](https://github.com/BSDSA-ISU/Troys-sway-config)
+
 ## 📖 Students who's currently enrolled(github username)
 
 - SugiuraAyanoo
@@ -50,4 +61,4 @@
 - Inteldesu
 - and 40+ more who's still didn't have a github account.
 
-@copyleft AlieeLinux
+@copyleft AlieeLinux and BSDSA students.
