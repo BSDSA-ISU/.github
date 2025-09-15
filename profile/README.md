@@ -59,6 +59,7 @@
 - SugiuraAyanoo
 - Click125i
 - Inteldesu
+- bryanfernandez23148-netizen
 - and 40+ more who's still didn't have a github account.
 
 @copyleft AlieeLinux and BSDSA students.
