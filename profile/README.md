@@ -47,7 +47,7 @@
 
 - [password manager using pandas](https://github.com/BSDSA-ISU/pandas-password-manager)
 - [programming for data science](https://github.com/BSDSA-ISU/Programminng-for-data-science)
-- [Linux configurer](https://github.com/BSDSA-ISU/linux-kernel-configurer)
+- [Linux kernel configurer](https://github.com/BSDSA-ISU/linux-kernel-configurer)
 - [First year codes](https://github.com/BSDSA-ISU/first-year)
 
 ## 🎊 for fun projects
@@ -59,6 +59,7 @@
 - SugiuraAyanoo
 - Click125i
 - Inteldesu
+- bryanfernandez23148-netizen
 - and 40+ more who's still didn't have a github account.
 
 @copyleft AlieeLinux and BSDSA students.
