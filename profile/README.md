@@ -56,10 +56,10 @@
 
 ## 📖 Students who's currently enrolled(github username)
 
-- SugiuraAyanoo
-- Click125i
-- Inteldesu
-- bryanfernandez23148-netizen
+- [SugiuraAyanoo](https://github.com/sugiuraayanoo)
+- [Click125i](https://github.com/click125i)
+- [Inteldesu](https://github.com/Inteldesu)
+- [bryanfernandez23148-netizen](https://github.com/bryanfernandez23148-netizen)
 - and 40+ more who's still didn't have a github account.
 
 @copyleft AlieeLinux and BSDSA students.
