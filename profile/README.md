@@ -45,6 +45,7 @@
 
 ## 🥯 Here are some repositories/projects made by us
 
+- [AlieeLinux](https://github.com/alieelinux) (admin)
 - [password manager using pandas](https://github.com/BSDSA-ISU/pandas-password-manager)
 - [programming for data science](https://github.com/BSDSA-ISU/Programminng-for-data-science)
 - [Linux kernel configurer](https://github.com/BSDSA-ISU/linux-kernel-configurer)
