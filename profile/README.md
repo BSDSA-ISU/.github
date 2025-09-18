@@ -60,6 +60,7 @@
 - [Click125i](https://github.com/click125i)
 - [Inteldesu](https://github.com/Inteldesu)
 - [bryanfernandez23148-netizen](https://github.com/bryanfernandez23148-netizen)
+- [Rakan2069](https://github.com/Rakan2069)
 - and 40+ more who's still didn't have a github account.
 
 @copyleft AlieeLinux and BSDSA students.
