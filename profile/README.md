@@ -1,5 +1,7 @@
 # Welcome to BSDSA
 
+❗ Note: Work activities will only be uploaded after the deadline to ensure that the original creator gets proper credit and to prevent copying.
+
 ## who are we?
 
 - We are the students of BSDSA ISU currently located in San Fabian, Echague Isabela.
