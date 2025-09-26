@@ -56,13 +56,19 @@
 
 ## 📖 Students who's currently enrolled(github username)
 
-- [AlieeLinux](https://github.com/alieelinux) (admin)
+- [AlieeLinux](https://github.com/alieelinux)
 - [SugiuraAyanoo](https://github.com/sugiuraayanoo)
 - [Click125i](https://github.com/click125i)
 - [Inteldesu](https://github.com/Inteldesu)
 - [bryanfernandez23148-netizen](https://github.com/bryanfernandez23148-netizen)
 - [Rakan2069](https://github.com/Rakan2069)
 - and 40+ more who's still didn't have a github account.
+
+## Usernames who joined on this group
+
+- [AlieeLinux](https://github.com/alieelinux) (admin)
+- [SugiuraAyanoo](https://github.com/sugiuraayanoo)
+- [Inteldesu](https://github.com/Inteldesu)
 
 ## Want to join?
 
