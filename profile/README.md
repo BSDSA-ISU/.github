@@ -66,6 +66,6 @@
 
 ## Want to join?
 
-- [Click Here to join](https://github.com/BSDSA-ISU/i-want-to-join) and create a pull request to join.
+- [Click Here and create a pull request to join.](https://github.com/BSDSA-ISU/i-want-to-join)
 
 @copyleft AlieeLinux and BSDSA students.
