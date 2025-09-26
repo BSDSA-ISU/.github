@@ -64,4 +64,8 @@
 - [Rakan2069](https://github.com/Rakan2069)
 - and 40+ more who's still didn't have a github account.
 
+## Want to join?
+
+- [Click Here to join](https://github.com/BSDSA-ISU/i-want-to-join) and create a pull request to join.
+
 @copyleft AlieeLinux and BSDSA students.
