@@ -64,7 +64,7 @@
 - [Rakan2069](https://github.com/Rakan2069)
 - and 40+ more who's still didn't have a github account.
 
-## Usernames who joined on this group
+## Usernames who's a member on this group
 
 - [AlieeLinux](https://github.com/alieelinux) (admin)
 - [SugiuraAyanoo](https://github.com/sugiuraayanoo)
