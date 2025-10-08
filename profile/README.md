@@ -49,6 +49,8 @@
 - [programming for data science](https://github.com/BSDSA-ISU/Programminng-for-data-science)
 - [Linux kernel configurer](https://github.com/BSDSA-ISU/linux-kernel-configurer)
 - [First year codes](https://github.com/BSDSA-ISU/first-year)
+- [computer aid in statistical computing](https://github.com/BSDSA-ISU/statistics)
+- [programming for data science](https://github.com/BSDSA-ISU/Programminng-for-data-science)
 
 ## 🎊 for fun projects
 
