@@ -66,9 +66,10 @@
 
 ## Usernames who's a member on this group
 
-- [AlieeLinux](https://github.com/alieelinux) (admin)
-- [SugiuraAyanoo](https://github.com/sugiuraayanoo)
-- [Inteldesu](https://github.com/Inteldesu)
+1. [AlieeLinux](https://github.com/alieelinux) (admin)
+2. [SugiuraAyanoo](https://github.com/sugiuraayanoo)
+3. [Inteldesu](https://github.com/Inteldesu)
+4. [bryanfernandez23148-netizen](https://github.com/bryanfernandez23148-netizen)
 
 ## Want to join?
 
