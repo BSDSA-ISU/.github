@@ -56,7 +56,6 @@
 
 ## 📖 Students who's currently enrolled(github username)
 
-- [bndckymt](https://github.com/bndckymt)
 - [AlieeLinux](https://github.com/alieelinux)
 - [SugiuraAyanoo](https://github.com/sugiuraayanoo)
 - [Click125i](https://github.com/click125i)
@@ -71,6 +70,7 @@
 2. [SugiuraAyanoo](https://github.com/sugiuraayanoo)
 3. [Inteldesu](https://github.com/Inteldesu)
 4. [bryanfernandez23148-netizen](https://github.com/bryanfernandez23148-netizen)
+5. [bndckymt](https://github.com/bndckymt)
 
 ## Want to join?
 
