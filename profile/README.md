@@ -46,11 +46,20 @@
 ## 🥯 Here are some repositories/projects made by us
 
 - [password manager using pandas](https://github.com/BSDSA-ISU/pandas-password-manager)
+  - [AlieeLinux](https://github.com/alieelinux)
 - [programming for data science](https://github.com/BSDSA-ISU/Programminng-for-data-science)
+  - [AlieeLinux](https://github.com/alieelinux)
 - [Linux kernel configurer](https://github.com/BSDSA-ISU/linux-kernel-configurer)
+  - [AlieeLinux](https://github.com/alieelinux)
 - [First year codes](https://github.com/BSDSA-ISU/first-year)
 - [computer aid in statistical computing](https://github.com/BSDSA-ISU/statistics)
+  - [AlieeLinux](https://github.com/alieelinux)
 - [programming for data science](https://github.com/BSDSA-ISU/Programminng-for-data-science)
+  - [AlieeLinux](https://github.com/alieelinux)
+  - [Koishi Komeiji](https://github.com/KoishiMyBeloved)
+- [Athlete Dashboard](https://github.com/BSDSA-ISU/InormationManagement-project)
+  - [AlieeLinux](https://github.com/alieelinux)
+  - [Koishi Komeiji](https://github.com/KoishiMyBeloved)
 
 ## 🎊 for fun projects
 
@@ -59,7 +68,7 @@
 ## 📖 Students who's currently enrolled(github username)
 
 - [AlieeLinux](https://github.com/alieelinux)
-- [SugiuraAyanoo](https://github.com/sugiuraayanoo)
+- [Koishi Komeiji](https://github.com/KoishiMyBeloved)
 - [Click125i](https://github.com/click125i)
 - [Inteldesu](https://github.com/Inteldesu)
 - [bryanfernandez23148-netizen](https://github.com/bryanfernandez23148-netizen)
