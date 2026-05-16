@@ -45,19 +45,25 @@
 
 ## 🥯 Here are some repositories/projects made by us
 
-- [password manager using pandas](https://github.com/BSDSA-ISU/pandas-password-manager)
+- **[password manager using pandas](https://github.com/BSDSA-ISU/pandas-password-manager)**
   - [AlieeLinux](https://github.com/alieelinux)
-- [programming for data science](https://github.com/BSDSA-ISU/Programminng-for-data-science)
+- **[programming for data science](https://github.com/BSDSA-ISU/Programminng-for-data-science)**
   - [AlieeLinux](https://github.com/alieelinux)
-- [Linux kernel configurer](https://github.com/BSDSA-ISU/linux-kernel-configurer)
+- **[Linux kernel configurer](https://github.com/BSDSA-ISU/linux-kernel-configurer)**
   - [AlieeLinux](https://github.com/alieelinux)
-- [First year codes](https://github.com/BSDSA-ISU/first-year)
-- [computer aid in statistical computing](https://github.com/BSDSA-ISU/statistics)
+- **[First year codes](https://github.com/BSDSA-ISU/first-year)**
   - [AlieeLinux](https://github.com/alieelinux)
-- [programming for data science](https://github.com/BSDSA-ISU/Programminng-for-data-science)
+- **[computer aid in statistical computing](https://github.com/BSDSA-ISU/statistics)**
+  - [AlieeLinux](https://github.com/alieelinux)
+- **[programming for data science](https://github.com/BSDSA-ISU/Programminng-for-data-science)**
   - [AlieeLinux](https://github.com/alieelinux)
   - [Koishi Komeiji](https://github.com/KoishiMyBeloved)
-- [Athlete Dashboard](https://github.com/BSDSA-ISU/InormationManagement-project)
+- **[Athlete Dashboard](https://github.com/BSDSA-ISU/InormationManagement-project)**
+  - [AlieeLinux](https://github.com/alieelinux)
+  - [Koishi Komeiji](https://github.com/KoishiMyBeloved)
+- **[ROTC attendance system](https://github.com/BSDSA-ISU/rotc-system)
+  - [Inteldesu](https://github.com/Inteldesu)
+- **[Password Manager with Flask](https://github.com/BSDSA-ISU/MariaDb-sql)**
   - [AlieeLinux](https://github.com/alieelinux)
   - [Koishi Komeiji](https://github.com/KoishiMyBeloved)
 
