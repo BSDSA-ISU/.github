@@ -2,6 +2,8 @@
 
 > [https://bsdsa-isu.github.io/](https://bsdsa-isu.github.io/)
 
+![67](https://cf.preview.redd.it/the-original-red-angry-bird-listening-meme-before-it-was-v0-dlfei8jnk2dg1.png?width=374&format=png&auto=webp&s=e081d3c2163943394808ae255fb609b9dbad26be)
+
 ## who are we?
 
 - We are the students of BSDSA ISU currently located in San Fabian, Echague Isabela.
@@ -63,7 +65,8 @@
 - **[Athlete Dashboard](https://github.com/BSDSA-ISU/InormationManagement-project)**
   - [AlieeLinux](https://github.com/alieelinux)
   - [Koishi Komeiji](https://github.com/KoishiMyBeloved)
-- **[ROTC attendance system](https://github.com/BSDSA-ISU/rotc-system)
+- **[ROTC attendance system](https://github.com/BSDSA-ISU/rotc-system)**
+  - [AlieeLinux](https://github.com/alieelinux)
   - [Inteldesu](https://github.com/Inteldesu)
 - **[Password Manager with Flask](https://github.com/BSDSA-ISU/MariaDb-sql)**
   - [AlieeLinux](https://github.com/alieelinux)
