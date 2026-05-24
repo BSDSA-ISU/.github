@@ -98,4 +98,12 @@
 
 - [Click Here and create a pull request to join.](https://github.com/BSDSA-ISU/i-want-to-join)
 
-@copyleft AlieeLinux and BSDSA students.
+## Profile Contributors
+
+<a href="https://github.com/BSDSA-ISU/.github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=BSDSA-ISU/.github" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
+> @copyleft AlieeLinux and BSDSA students.
