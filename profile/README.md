@@ -2,7 +2,7 @@
 
 > [https://bsdsa-isu.github.io/](https://bsdsa-isu.github.io/)
 
-![67 meme](https://media1.tenor.com/m/1Quz6m_XnbkAAAAd/67-meme-tiktok.gif)
+![67 angry birds big](./l.gif)
 
 ![asaas](https://media1.tenor.com/m/jHiubGN8y9oAAAAd/goofy-ahh.gif)
 
