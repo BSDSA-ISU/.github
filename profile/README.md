@@ -46,27 +46,40 @@
 ## 🥯 Here are some repositories/projects made by us
 
 - **[password manager using pandas](https://github.com/BSDSA-ISU/pandas-password-manager)**
-  - [AlieeLinux](https://github.com/alieelinux)
+  - [👤 AlieeLinux](https://github.com/alieelinux)
 - **[programming for data science](https://github.com/BSDSA-ISU/Programminng-for-data-science)**
-  - [AlieeLinux](https://github.com/alieelinux)
+  - [👤 AlieeLinux](https://github.com/alieelinux)
 - **[Linux kernel configurer](https://github.com/BSDSA-ISU/linux-kernel-configurer)**
-  - [AlieeLinux](https://github.com/alieelinux)
+  - [👤 AlieeLinux](https://github.com/alieelinux)
 - **[First year codes](https://github.com/BSDSA-ISU/first-year)**
-  - [AlieeLinux](https://github.com/alieelinux)
+  - [👤 AlieeLinux](https://github.com/alieelinux)
 - **[computer aid in statistical computing](https://github.com/BSDSA-ISU/statistics)**
-  - [AlieeLinux](https://github.com/alieelinux)
+  - [👤 AlieeLinux](https://github.com/alieelinux)
 - **[programming for data science](https://github.com/BSDSA-ISU/Programminng-for-data-science)**
-  - [AlieeLinux](https://github.com/alieelinux)
-  - [Koishi Komeiji](https://github.com/KoishiMyBeloved)
+  - [👤 AlieeLinux](https://github.com/alieelinux)
+  - [👤 Koishi Komeiji](https://github.com/KoishiMyBeloved)
 - **[Athlete Dashboard](https://github.com/BSDSA-ISU/InormationManagement-project)**
-  - [AlieeLinux](https://github.com/alieelinux)
-  - [Koishi Komeiji](https://github.com/KoishiMyBeloved)
+  - [👤 AlieeLinux](https://github.com/alieelinux)
+  - [👤 Koishi Komeiji](https://github.com/KoishiMyBeloved)
 - **[ROTC attendance system](https://github.com/BSDSA-ISU/rotc-system)**
-  - [AlieeLinux](https://github.com/alieelinux)
-  - [Inteldesu](https://github.com/Inteldesu)
+  - [👤 AlieeLinux](https://github.com/alieelinux)
+  - [👤 Inteldesu](https://github.com/Inteldesu)
 - **[Password Manager with Flask](https://github.com/BSDSA-ISU/MariaDb-sql)**
-  - [AlieeLinux](https://github.com/alieelinux)
-  - [Koishi Komeiji](https://github.com/KoishiMyBeloved)
+  - [👤 AlieeLinux](https://github.com/alieelinux)
+  - [👤 Koishi Komeiji](https://github.com/KoishiMyBeloved)
+
+## 📚 Topics
+
+- **1st years**
+  - [programming for data science](https://github.com/BSDSA-ISU/Programminng-for-data-science)
+  - [conectivity discrete(Project)](https://github.com/BSDSA-ISU/connectivity-discrete)
+- **2st year**
+  - [Information Management](https://github.com/BSDSA-ISU/Information-Management)
+  - [Statistics](https://github.com/BSDSA-ISU/statistics)
+  - [Notes](https://github.com/BSDSA-ISU/2nd-year-notes)
+- **3rd year**
+  - [ML and Data mining](https://github.com/BSDSA-ISU/ML-and-Data-Mining)
+  - [Internet of Things](https://github.com/BSDSA-ISU/Internet-Of-Things)
 
 ## 🎊 for fun projects
 
@@ -106,4 +119,4 @@
 
 Made with [contrib.rocks](https://contrib.rocks).
 
-> @copyleft AlieeLinux and BSDSA students.
+> @copyright AlieeLinux and BSDSA students.
